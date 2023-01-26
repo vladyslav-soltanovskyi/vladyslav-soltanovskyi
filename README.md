@@ -5,7 +5,7 @@
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/descendat)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=vladyslav-soltanovskyi&include_all_commits=true&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="vladyslav-soltanovskyi" />
+<img src="https://github-readme-stats.vercel.app/api?username=vladyslav-soltanovskyi&include_all_commits=true&show_icons=true&theme=react&count_private=true" alt="vladyslav-soltanovskyi" />
 
 ## Tech stack
 
